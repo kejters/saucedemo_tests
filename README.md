@@ -1,9 +1,18 @@
-# Test automation training of https://www.saucedemo.com/ with using playwright #
+# Test automation training of https://www.saucedemo.com/ with using playwright
 
-## History 
+## History
 
 ### 0.1
+
 29.05.2024
+
 - project creation
 - git repository creation
-- simple test of user login 
+- simple test of user login
+
+### 0.2
+
+xx.xx.2024
+
+- refactoring
+- cart test added
